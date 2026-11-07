@@ -4,7 +4,7 @@ A sleek, modern, and lightweight loading animation built using pure HTML and CSS
 
 ## 🌐 Live Demo
 
-Check out the live project here: [Live Demo](https://your-username.github.io/your-repository-name/) *(Replace with your actual GitHub Pages URL)*
+Check out the live project here: [Live Demo](https://omardawoud54.github.io/loading-animation/)
 
 ## ✨ Features
 
